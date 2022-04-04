@@ -1,0 +1,16 @@
+total 56
+drwxrwxr-x 2 samkb420 samkb420 4096 Apr  4 23:39 .
+drwxrwxr-x 6 samkb420 samkb420 4096 Apr  4 22:34 ..
+-rwxr--r-- 1 samkb420 samkb420   32 Apr  4 22:51 0-hello_world
+-rwxr--r-- 1 samkb420 samkb420   28 Apr  4 22:47 1-confused_smiley
+-rwxr--r-- 1 samkb420 samkb420   28 Apr  4 22:56 2-hellofile
+-rwxr--r-- 1 samkb420 samkb420   39 Apr  4 23:00 3-twofiles
+-rwxr--r-- 1 samkb420 samkb420   35 Apr  4 23:04 4-lastlines
+-rwxr--r-- 1 samkb420 samkb420   35 Apr  4 23:06 5-firstlines
+-rwxr--r-- 1 samkb420 samkb420   40 Apr  4 23:34 6-third_line
+-rwxr--r-- 1 samkb420 samkb420   78 Apr  4 23:36 7-file
+-rwxr--r-- 1 samkb420 samkb420   36 Apr  4 23:39 8-cwd_state
+-rw-rw-r-- 1 samkb420 samkb420   12 Apr  4 23:36 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 samkb420 samkb420  223 Apr  4 23:12 iacta
+-rw-rw-r-- 1 samkb420 samkb420    0 Apr  4 23:39 ls_cwd_content
+-rw-rw-r-- 1 samkb420 samkb420   20 Apr  4 22:35 README.md
